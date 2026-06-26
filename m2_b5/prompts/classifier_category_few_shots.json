@@ -1,0 +1,20 @@
+[
+  {"role": "user", "content": "Сколько стоит тариф Pro?"},
+  {"role": "assistant", "content": "faq"},
+  {"role": "user", "content": "Не могу загрузить файл, появляется ошибка 413"},
+  {"role": "assistant", "content": "problem"},
+  {"role": "user", "content": "Поддержка работает ужасно, я недоволен"},
+  {"role": "assistant", "content": "faq"},
+  {"role": "user", "content": "Позовите менеджера"},
+  {"role": "assistant", "content": "faq"},
+  {"role": "user", "content": "С утра касса не работает, захожу в меню продажа и там черный экран"},
+  {"role": "assistant", "content": "problem"},
+  {"role": "user", "content": "Интернет пропал на кассе, все должно работать, инструкция не помогает"},
+  {"role": "assistant", "content": "problem"},
+  {"role": "user", "content": "Как оплатить интернет на кассе"},
+  {"role": "assistant", "content": "faq"},
+  {"role": "user", "content": "Добрый вечер!"},
+  {"role": "assistant", "content": "faq"},
+  {"role": "user", "content": "До свидания"},
+  {"role": "assistant", "content": "faq"}
+]
